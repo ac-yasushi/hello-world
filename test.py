@@ -5,7 +5,7 @@ Created on Mon Oct 29 22:09:11 2018
 @author: tgvuhn
 """
 
-with open("C:/Users/tgvuhn/OneDrive/HTML/CBT_form.html", "rb") as f:
+with open("hoge", "rb") as f:
     string=f.readlines()
 
 s=""
